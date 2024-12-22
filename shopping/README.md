@@ -36,3 +36,4 @@ python shopping.py shopping.csv
 - The program will output:
 - The number of correct and incorrect predictions.
 - The sensitivity (true positive rate) and specificity (true negative rate) of the classifier.
+![image](https://github.com/user-attachments/assets/b80764e9-f87b-4de2-9aba-51a9b2b23361)
